@@ -1,0 +1,93 @@
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\bin\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\bin\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\bin\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\obj\Debug\DXBeamHeading.Resources.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.GenerateResource.Cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading\DXBeamHeading\obj\Debug\DXBeamHeading.frmMainStart.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\bin\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\bin\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\bin\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\obj\Debug\DXBeamHeading.frmMainStart.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\obj\Debug\DXBeamHeading.Resources.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.GenerateResource.Cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading2\DXBeamHeading\obj\Debug\DXBeamHeading.DBConnection.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\bin\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\bin\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\bin\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\obj\Debug\DXBeamHeading.DBConnection.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\obj\Debug\DXBeamHeading.frmMainStart.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\obj\Debug\DXBeamHeading.Resources.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading3\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.GenerateResource.Cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\bin\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\bin\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\bin\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\DXBeamHeading.DBConnection.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\DXBeamHeading.frmMainStart.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\DXBeamHeading.Resources.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.GenerateResource.Cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading4\DXBeamHeading\obj\Debug\DXBeamHeading.frmSerialPort.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\bin\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\bin\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\bin\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\DXBeamHeading.DBConnection.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\DXBeamHeading.frmMainStart.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\DXBeamHeading.frmSerialPort.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\DXBeamHeading.Resources.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading7\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.GenerateResource.Cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading8\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading8\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading8\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\bin\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\bin\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\bin\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\DXBeamHeading.DBConnection.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\DXBeamHeading.frmMainStart.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\DXBeamHeading.frmSerialPort.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\DXBeamHeading.Resources.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading9\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.GenerateResource.Cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\bin\Debug\DXBeamHeading.exe
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\bin\Debug\DXBeamHeading.pdb
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\bin\Debug\DXBeamHeading.xml
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.DBConnection.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.frmMainStart.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.Resources.resources
+C:\Users\carlm\Documents\Visual Studio 2008\Projects\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.GenerateResource.Cache
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\bin\Debug\DXBeamHeading.exe
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\bin\Debug\DXBeamHeading.pdb
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\bin\Debug\DXBeamHeading.xml
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.AssemblyReference.cache
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.frmMainStart.resources
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.Resources.resources
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.GenerateResource.cache
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.vbproj.CoreCompileInputs.cache
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.exe
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.xml
+C:\Users\carlm\source\repos\DXBeamHeading10\DXBeamHeading\obj\Debug\DXBeamHeading.pdb
