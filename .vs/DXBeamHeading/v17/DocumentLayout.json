@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\carlm\\source\\repos\\DXBeamHeading10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E77A77A9-14A5-445F-99F4-81CD448F7B7C}|DXBeamHeading\\DXBeamHeading.vbproj|C:\\Users\\carlm\\source\\repos\\DXBeamHeading10\\dxbeamheading\\dxcc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E77A77A9-14A5-445F-99F4-81CD448F7B7C}|DXBeamHeading\\DXBeamHeading.vbproj|c:\\users\\carlm\\source\\repos\\dxbeamheading10\\dxbeamheading\\dxcc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E77A77A9-14A5-445F-99F4-81CD448F7B7C}|DXBeamHeading\\DXBeamHeading.vbproj|solutionrelative:dxbeamheading\\dxcc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E77A77A9-14A5-445F-99F4-81CD448F7B7C}|DXBeamHeading\\DXBeamHeading.vbproj|c:\\users\\carlm\\source\\repos\\dxbeamheading10\\dxbeamheading\\dxcc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E77A77A9-14A5-445F-99F4-81CD448F7B7C}|DXBeamHeading\\DXBeamHeading.vbproj|C:\\Users\\carlm\\source\\repos\\DXBeamHeading10\\dxbeamheading\\dxcc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E77A77A9-14A5-445F-99F4-81CD448F7B7C}|DXBeamHeading\\DXBeamHeading.vbproj|solutionrelative:dxbeamheading\\dxcc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
@@ -21,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,18 +37,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DXCC.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\carlm\\source\\repos\\DXBeamHeading10\\DXBeamHeading\\DXCC.vb",
-              "RelativeDocumentMoniker": "DXBeamHeading\\DXCC.vb",
-              "ToolTip": "C:\\Users\\carlm\\source\\repos\\DXBeamHeading10\\DXBeamHeading\\DXCC.vb [Design]",
-              "RelativeToolTip": "DXBeamHeading\\DXCC.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-11-25T07:40:37.983Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\Users\\carlm\\Desktop\\PushRequest\\ReadMe.txt",
@@ -57,8 +45,7 @@
               "RelativeToolTip": "..\\..\\..\\Desktop\\PushRequest\\ReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-25T04:28:58.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T04:28:58.417Z"
             },
             {
               "$type": "Document",
@@ -68,10 +55,22 @@
               "RelativeDocumentMoniker": "DXBeamHeading\\DXCC.vb",
               "ToolTip": "C:\\Users\\carlm\\source\\repos\\DXBeamHeading10\\DXBeamHeading\\DXCC.vb",
               "RelativeToolTip": "DXBeamHeading\\DXCC.vb",
-              "ViewState": "AgIAAB8EAAAAAAAAAAAhwD4EAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACAEAAAAAAAAAAAAwD4EAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-11-25T07:41:55.733Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DXCC.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\carlm\\source\\repos\\DXBeamHeading10\\DXBeamHeading\\DXCC.vb",
+              "RelativeDocumentMoniker": "DXBeamHeading\\DXCC.vb",
+              "ToolTip": "C:\\Users\\carlm\\source\\repos\\DXBeamHeading10\\DXBeamHeading\\DXCC.vb [Design]",
+              "RelativeToolTip": "DXBeamHeading\\DXCC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T07:40:37.983Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
